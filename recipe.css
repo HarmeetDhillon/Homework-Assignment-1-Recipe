@@ -1,0 +1,60 @@
+body {
+ 	color: #404040;
+ 	background-image: url("silverware.jpg");
+	background-attachment: fixed;
+	background-position: center; 
+	font-family: "Georgia", serif;
+	background-color: #FFFFFF;
+	font-size: 11px;
+  	height: 100%;
+ }
+
+h3,a,h4 {
+	color: #A4A400;
+	font-weight: bold;
+	text-decoration: underline;
+	background-color: #F0F0F0;
+}
+
+h3.ingredientsHeading {
+	font-size: 18px;
+	text-align: left;
+	letter-spacing: 0.25em;
+ }
+ 
+h3.GrandHeading {
+	text-align: center;
+	font-size: 22px;
+	letter-spacing: 0.25em;
+	width: 100%;
+	font-family: "Lucida Sans Unicode", sans-serif;
+}
+
+.thetooltip {
+ 	position: relative;
+ 	display: inline;
+ 	text-decoration: underline;
+ }
+ .boldText {
+	font-weight: bold;
+	}
+#strikeCake {
+	text-decoration: line-through;
+	}
+p.yellowBack {
+	font-style: italic;
+	margin-left:3em;
+	background-color: #FFFFA8;
+}
+pre {
+	white-space: pre;
+	margin: 1em 0; 
+	display: block;
+	font-family: monospace;
+}
+p {
+width:  60%;
+}
+.spaces{
+	line-height: 200%;
+}
